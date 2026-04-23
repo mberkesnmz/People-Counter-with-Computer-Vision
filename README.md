@@ -3,7 +3,6 @@
 Automatically counts people inside a defined zone using real-time video analysis.
 
 ![demo](demo.gif)
-
 ---
 
 ## What It Does
